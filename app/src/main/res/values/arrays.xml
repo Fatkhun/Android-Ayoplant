@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_upload_quality_entries">
+        <item>360p</item>
+        <item>480p</item>
+        <item>720p</item>
+        <item>1080p</item>
+        <item>Original</item>
+    </string-array>
+    <string-array name="pref_upload_quality_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="namatumbuhan">
+        <item>Jambu Biji</item>
+        <item>mawar</item>
+        <item>melati</item>
+        <item>anggrek</item>
+    </string-array>
+    <string-array name="time">
+        <item>30 minute</item>
+        <item>1 hour</item>
+        <item>3 hour</item>
+        <item>6 hour</item>
+        <item>9 hour</item>
+        <item>12 hour</item>
+        <item>24 hour</item>
+    </string-array>
+</resources>

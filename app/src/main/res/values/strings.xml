@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">Ayo Plant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select">Select Plant</string>
+    <string name="re">Remind By</string>
+    <string name="factor">Factor</string>
+    <string name="humidity">Humidity</string>
+    <string name="sw">switch</string>
+    <string name="temp">Temperature</string>
+    <string name="time">Time</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="tambah">Tambah Tumbuhan</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="plant_image">Plant Image</string>
+    <string name="plant_desc">Plant Description</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="no_telepon">No.Telepon</string>
+    <string name="simpan">Simpan</string>
+    <string name="ubah_password">ubah password</string>
+    <string name="negara">Negara</string>
+    <string name="titik_dua">:</string>
+    <string name="jenis">Jenis Tumbuhan</string>
+    <string name="save">Save</string>
+    <string name="status">Status</string>
+    <string-array name="android_dropdown_arrays">
+        <item>Choose Country</item>
+        <item>Brunei Darussalam</item>
+        <item>Fillipina</item>
+        <item>Indonesia</item>
+        <item>Kamboja</item>
+        <item>Laos</item>
+        <item>Malaysia</item>
+        <item>Myanmar</item>
+    </string-array>
+
+    <string-array name="encyclopedia_plant">
+        <item>Pilih Tanaman</item>
+        <item>Anggrek</item>
+        <item>Mawar</item>
+        <item>Jambu</item>
+        <item>Jeruk</item>
+    </string-array>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_navbar">NavbarActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="default_gallery_storage">My Videos</string>
+    <string name="title_auto_upload">Auto upload</string>
+    <string name="summary_upload_over_wifi">Upload the videos when wifi is available</string>
+    <string name="title_upload_quality">Upload Quality</string>
+    <string name="summary_upload_video_quality">Specify video quality for uploads</string>
+    <string name="pref_title_notifications">Notifications</string>
+    <string name="summary_choose_ringtone">Choose notification sound</string>
+    <string name="pref_header_about">About</string>
+    <string name="summary_about">We are a team of like-minded people, specialized in development of Android App Development creating new trends across the app space. Glad to Help in anyway!</string>
+    <string name="app_version">3.5</string>
+    <string name="summary_support">Got any queries? We are happy to help!</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="title_faq">FAQ</string>
+    <string name="summary_faq">View frequently asked questions</string>
+    <string name="url_faq">http://ngodingo.blogspot.co.id/p/privacy-policy.html</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="url_privacy">http://www.androidhive.info/privacy-policy/</string>
+    <string name="title_terms">Terms &amp; Conditions</string>
+    <string name="url_terms">http://www.androidhive.info/terms-of-service/</string>
+    <string name="title_version">Version</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="title_gallery_storage">Default Storage</string>
+    <string name="title_new_notification_sound">New message notification</string>
+    <string name="title_vibrate">Vibrate</string>
+    <string name="summary_vibrate">Vibrate on new notification</string>
+    <string name="key_upload_over_wifi">key_upload_over_wifi</string>
+    <string name="key_gallery_name">key_gallery_name</string>
+    <string name="key_upload_quality">key_upload_quality</string>
+    <string name="notifications_new_message">notifications_new_message</string>
+    <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
+    <string name="key_vibrate">key_vibrate</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">About</string>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="action_settings_headers">Settings</string>
+
+    <string name="hint_fullname">Full name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+
+    <!--login google-->
+    <string name="login_with_google">Login</string>
+    <string name="action_logout">Logout</string>
+    <string name="loading">loading</string>
+
+    <string name="mountain_image">Image</string>
+    <string name="add_plant">Add Plant</string>
+    <string name="plant_type">Plant Type</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="save_change">Save Change</string>
+    <string name="change_password">Change Password</string>
+    <string name="country">Country</string>
+
+    <!--remindme-->
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_header_factor">Set Factor</string>
+    <string name="sett_reminder_header_time">Set Time</string>
+    <string name="sett_reminder_header_plant">Set Plant</string>
+    <string name="sett_reminder_label_temp">Temperature</string>
+    <string name="sett_reminder_label_humadity">Humadity</string>
+    <string name="sett_reminder_desc">Choose factor to remind your plant</string>
+    <string name="sett_reminder_desc_plant">Select plant to remind your plant</string>
+    <string name="sett_reminder_desc_time">Set time to remind your plant</string>
+    <string name="sett_reminder_time_label">Set Select Plant1</string>
+    <string name="sett_reminder_time_content">8 : 00 PM</string>
+
+    <!--alarmme-->
+    <string-array name="occurence">
+        <item>Once</item>
+        <item>Weekly</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_entries">
+        <item>10 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_values">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+
+    <!--Swipe-->
+    <string name="swipe_down_info">Swipe down to synchronize</string>
+    <string name="swipe_down_info_scan">Swipe down to scan</string>
+    <string name="synchronizing">Synchronizing…</string>
+    <string name="scanning">Scanning…</string>
+    <string name="network_is_not_connected">Network is not connected.</string>
+    <string name="already_scanning">Already scanning</string>
+    <string name="scanning_started">Scanning started</string>
+
+    <!--Searchview-->
+    <string name="toolbar_title">Ayo Plant</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+</resources>
+

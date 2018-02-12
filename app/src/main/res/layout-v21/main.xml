@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:paddingTop="4sp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#87D37C"
+    tools:context="com.allfeature.alarmme.AlarmMe">
+
+  <LinearLayout
+      android:id="@+id/llalarm"
+      style="@style/settings_item_layout"
+      android:orientation="vertical"
+      android:paddingLeft="20sp"
+      android:paddingRight="20sp">
+
+      <android.support.design.widget.FloatingActionButton
+          android:id="@+id/add_alarm"
+          style="@style/widget"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="bottom|center"
+          android:onClick="onAddAlarmClick"
+          app:layout_anchorGravity="bottom|center"
+          app:srcCompat="@android:drawable/ic_input_add" />
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          style="@style/widget"
+          android:text="Alarm List"
+          android:textStyle="bold"
+          android:textAlignment="viewStart"
+          android:textSize="20sp"
+          android:shadowColor="@color/black"
+          android:textColor="@color/BLUE"/>
+
+      <ListView
+          android:id="@+id/alarm_list"
+          style="@style/widget"
+          android:layout_height="522dp" />
+
+  </LinearLayout>
+
+</LinearLayout>
+
